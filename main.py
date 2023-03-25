@@ -1,5 +1,8 @@
+import api_base
+
+
 def main():
-    pass
+    api_base.get_auth()
 
 
 if __name__ == "__main__":
